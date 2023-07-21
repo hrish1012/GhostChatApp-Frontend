@@ -1,0 +1,22 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+
+.mainChat{
+
+    background-image: url("./test1crop.jpg");
+    background-size:cover;
+}
+
+.click{
+ 
+   background-image: url("./ghostedit.gif");
+    background-size: cover;
+ 
+
+}
+
+
